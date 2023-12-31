@@ -13,7 +13,7 @@
 
   <ul>
    
-    <li>📫 How to reach me: <a href="mailto:nt465638@gmail.com">nt465638@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:nt465638@gmail.com">nt465638@gmail.com</a></li>
 <!--     <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1OueRdDc4c2Eh3saZ3JpaTCrVQOIZSZvX/view?usp=sharing">here</a></li> -->
   
   </ul>
