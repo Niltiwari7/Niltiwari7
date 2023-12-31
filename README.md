@@ -12,7 +12,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=niltiwari7&label=Profile%20views&color=0e75b6&style=flat" alt="niltiwari7" /> </p>
 
   <ul>
-    <li>🌱 I’m currently learning <strong>React.js</strong></li>
+   
     <li>📫 How to reach me: <a href="mailto:nt465638@gmail.com">nt465638@gmail.com</a></li>
 <!--     <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1OueRdDc4c2Eh3saZ3JpaTCrVQOIZSZvX/view?usp=sharing">here</a></li> -->
   
