@@ -7,7 +7,6 @@
 
 * 🔭 Working on **Backend Systems & Microservices**
 * 🌱 Exploring **System Design & Distributed Systems**
-* 🔐 Researching in **Cryptography (ECC, Isogeny-Based Security)**
 * 💻 Strong in **Data Structures & Algorithms**
 * 🎯 Goal: Become a **high-impact backend engineer**
 
