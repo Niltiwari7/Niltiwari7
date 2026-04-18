@@ -1,26 +1,94 @@
-
 <h1 align="center">Hi 👋, I'm Nilesh Tiwari</h1>
+<h3 align="center">🚀 Backend Developer | DSA Enthusiast | Cryptography Researcher</h3>
 
+---
 
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niltiwari7" alt="niltiwari7" /></a> </p>
+* 🔭 Working on **Backend Systems & Microservices**
+* 🌱 Exploring **System Design & Distributed Systems**
+* 🔐 Researching in **Cryptography (ECC, Isogeny-Based Security)**
+* 💻 Strong in **Data Structures & Algorithms**
+* 🎯 Goal: Become a **high-impact backend engineer**
 
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+---
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=niltiwari7&label=Profile%20views&color=0e75b6&style=flat" alt="niltiwari7" /> </p>
+### 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nilesh-tiwari-bbb685215/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nilesh-tiwari-bbb685215/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/nilestiwari_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nilestiwari_7/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/nt465638/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nt465638/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nilesh-tiwari-bbb685215/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://leetcode.com/u/nilestiwari_7/" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/nt465638/" target="_blank">
+<img src="https://skillicons.dev/icons?i=geeksforgeeks" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niltiwari7&show_icons=true&locale=en&layout=compact" alt="niltiwari7" /></p>
+### 🔗 Profiles
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niltiwari7&show_icons=true&locale=en" alt="niltiwari7" /></p>
+* 💻 LeetCode: https://leetcode.com/u/nilestiwari_7/
+* 🔗 LinkedIn: https://www.linkedin.com/in/nilesh-tiwari-bbb685215/
+* 📘 GeeksforGeeks: https://www.geeksforgeeks.org/user/nt465638/
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,express,react,mongodb,mysql,firebase,html,css,figma" />
+</p>
+
+---
+
+### 📚 Research Publications
+
+| 📝 Title                                                                                                              | 📍 Conference                                                                                    | 🔗 Link                                                                      |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| **PiLockPark: Innovating Military Security Through ECC Torsion Point Cryptography for Controlled Access and Parking** | 2025 IEEE 3rd International Symposium on Sustainable Energy, Signal Processing and Cybersecurity | [View Paper](https://ieeexplore.ieee.org/document/11388046)                  |
+| **Torsion Point Cryptography: Enhancing Data Security with Elliptic Curve**                                           | International Carnahan Conference on Security Technology                                         | [View Paper](https://ieeexplore.ieee.org/document/10474229)                  |
+| **An ECC-Isogeny Cipher Shield for Navy Inverter Systems**                                                            | IEEE ICCCNT Conference                                                                           | [View Paper](https://ieeexplore.ieee.org/document/10725358)                  |
+| **SNR Estimation for Hypercubic Signals in Rayleigh Channels**                                                        | 2nd International Conference on Nonlinear Dynamics and Applications                              | [View Paper](https://link.springer.com/chapter/10.1007/978-3-031-69146-1_18) |
+| **Isogeny-based Security for Marine Genomic Insights**                                                                | International Conference on ICT for Digital, Smart, and Sustainable Development                  | [View Paper](https://link.springer.com/chapter/10.1007/978-981-97-7831-7_18) |
+| **Inverter-Integrated ECC with Torsion Points in Aircraft Security**                                                  | Soft Computing Applications in Modern Power and Energy Systems                                   | [View Paper](https://link.springer.com/chapter/10.1007/978-981-96-0058-8_15) |
+| **Hybrid Cryptography for Securing IoT: Elliptic Curve and Isogeny-Based**                                            | Information Security, Privacy and Digital Forensics                                              | [View Paper](http://link.springer.com/chapter/10.1007/978-981-96-9443-3_4)   |
+
+---
 
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=niltiwari7&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltiwari7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=niltiwari7&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+* System Design (LLD + HLD)
+* Distributed Systems
+* Advanced Cryptography
+
+---
+
+### 💡 Quote
+
+> “First, solve the problem. Then, write the code.”
+
+---
