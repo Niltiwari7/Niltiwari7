@@ -56,17 +56,6 @@
 | **Inverter-Integrated ECC with Torsion Points in Aircraft Security**                                                  | Soft Computing Applications in Modern Power and Energy Systems                                   | [View Paper](https://link.springer.com/chapter/10.1007/978-981-96-0058-8_15) |
 | **Hybrid Cryptography for Securing IoT: Elliptic Curve and Isogeny-Based**                                            | Information Security, Privacy and Digital Forensics                                              | [View Paper](http://link.springer.com/chapter/10.1007/978-981-96-9443-3_4)   |
 
----
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niltiwari7&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltiwari7&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
