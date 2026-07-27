@@ -82,7 +82,7 @@
 
 * System Design (LLD + HLD)
 * Distributed Systems
-* Advanced Cryptography
+* Devops
 
 ---
 
