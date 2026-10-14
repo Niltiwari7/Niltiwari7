@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Tiwari</h1>
-<h3 align="center">🚀 Backend Developer | DSA Enthusiast | Cryptography Researcher</h3>
+<h3 align="center">🚀 Backend Developer | DSA Enthusiast </h3>
 
 ---
 
@@ -67,11 +67,10 @@
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 Currently On going 
 
-* System Design (LLD + HLD)
-* Distributed Systems
-* Devops
+* Learning System Design (LLD + HLD) 
+* Building taskpulse-pro - Your own task tracker that will design the task for you using one prompt.
 
 ---
 
