@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=180&section=header&text=Nilesh%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20DSA%20%7C%20System%20Design&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1E2E,100:38BDF8&height=180&section=header&text=Nilesh%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=%24%20backend%20dev%20%7C%20system%20design%20%7C%20dsa&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Animated header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Reliable+Backend+Systems;Exploring+System+Design+%26+Distributed+Systems;Solving+DSA+Problems+with+C%2B%2B;Learning+by+Building+Real+Projects" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+backend+developer;%24+cat+philosophy.txt+%E2%86%92+build+%3E+consume;%24+./solve+--lang%3Dcpp+--daily;%24+learning+system-design+by+shipping+real+projects" alt="Animated introduction"/>
 
 <p>
 <a href="https://github.com/niltiwari7"><img src="https://img.shields.io/badge/GitHub-niltiwari7-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
@@ -14,50 +14,62 @@
 
 ---
 
-## 👨‍💻 About Me
+```console
+    .--.          nilesh@dev
+   |o_o |         ───────────────────────────────────────────────
+   |:_/ |         OS      :  Linux · Web
+  //   \ \        Shell   :  zsh
+ (|     | )       Editor  :  Neovim
+/'\_   _/`\       Focus   :  Backend · System Design · DSA
+\___)=(___/       Motto   :  Build. Break. Learn. Repeat.
+```
 
-- 🔭 Building backend systems and **TaskPulse Pro**, a prompt-driven task management application.
-- ⚙️ Interested in APIs, microservices, and database design.
-- 🧠 Learning **LLD, HLD, and distributed systems**.
-- 💻 Practicing Data Structures and Algorithms using C++.
-- 📚 Co-author of research publications in cryptography, security, and signal processing.
+---
 
-## 🛠️ Tech Stack
+## 🐧 `$ cat about.md`
 
-**Languages**
+> I'm **Nilesh Tiwari** — a backend developer who likes turning rough ideas into systems that actually hold up under pressure.
+>
+> My happy place is the intersection of **APIs, databases, and clean architecture** — the invisible plumbing that makes products feel smooth. I'm currently going deep into **System Design (LLD + HLD)** and **Distributed Systems**, and I keep my DSA sharp with daily **C++** problems.
+>
+> I learn by **shipping real things** — the kind that break, teach me a lesson, and come back stronger on the next commit.
+
+---
+
+## 🛠️ `$ ls ~/skills/`
+
+```console
+languages/    cpp  ·  typescript  ·  javascript  ·  python
+backend/      node.js  ·  express.js
+databases/    mongodb  ·  mysql  ·  firebase
+tools/        git  ·  github  ·  docker  ·  linux  ·  vscode  ·  gcloud
+```
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,python" alt="C++, TypeScript, JavaScript, Python"/>
+<img src="https://skillicons.dev/icons?i=cpp,ts,js,python,nodejs,express,mongodb,mysql,firebase,git,github,docker,linux,vscode,gcp" alt="Skill icons"/>
 </p>
 
-**Backend & Databases**
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Node.js, Express.js, MongoDB, MySQL, Firebase"/>
-</p>
+## 🚀 `$ ./launch taskpulse-pro`
 
-**Tools & Platforms**
+### **TaskPulse Pro** — *one prompt → an actionable plan*
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,gcp" alt="Git, GitHub, Docker, Linux, VS Code, Google Cloud"/>
-<a href="https://admin.google.com/"><img src="https://img.shields.io/badge/Google%20Admin%20Console-4285F4?style=flat&logo=google&logoColor=white" alt="Google Admin Console"/></a>
-</p>
+> A task-management app that takes a messy goal and turns it into structured tasks and workflows you can actually execute.
 
-## 🚀 Featured Project
+```console
+$ status    →  building · actively iterating
+$ focus     →  prompt → plan → tasks → workflows
+$ built-on  →  typescript · node.js · express.js · databases · system design
+```
 
-### TaskPulse Pro
+- 📝 Prompt-driven task planning
+- 🗂️ Task organization & workflow management
+- 🏗️ Maintainable architecture with a full-stack mindset
 
-**Turn one prompt into an actionable task plan.**
+---
 
-A task-management application focused on converting goals into structured tasks and workflows.
-
-- 📝 Prompt-driven task planning.
-- 🗂️ Task organization and workflow management.
-- 🏗️ Maintainable architecture and full-stack development.
-
-**Tech focus:** TypeScript, Node.js, Express.js, databases, and system design.
-
-## 📊 GitHub Analytics
+## 📊 `$ cat ~/stats.json`
 
 <div align="center">
 
@@ -74,25 +86,40 @@ A task-management application focused on converting goals into structured tasks 
 
 </div>
 
-## 📚 Research Publications
+---
+
+## 📚 `$ ls ~/publications/ --long`
+
+```console
+research/   cryptography · security · signal processing
+role/       co-author
+papers/     7 peer-reviewed publications
+```
 
 | Research Paper | Publication | Link |
 |---|---|---|
-| **PiLockPark: Innovating Military Security Through ECC Torsion Point Cryptography for Controlled Access and Parking** | 2025 IEEE 3rd International Symposium on Sustainable Energy, Signal Processing and Cybersecurity | [Paper](https://ieeexplore.ieee.org/document/11388046) |
-| **Torsion Point Cryptography: Enhancing Data Security with Elliptic Curve** | International Carnahan Conference on Security Technology | [Paper](https://ieeexplore.ieee.org/document/10474229) |
-| **An ECC-Isogeny Cipher Shield for Navy Inverter Systems** | IEEE ICCCNT Conference | [Paper](https://ieeexplore.ieee.org/document/10725358) |
-| **SNR Estimation for Hypercubic Signals in Rayleigh Channels** | 2nd International Conference on Nonlinear Dynamics and Applications | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-69146-1_18) |
-| **Isogeny-based Security for Marine Genomic Insights** | International Conference on ICT for Digital, Smart, and Sustainable Development | [Paper](https://link.springer.com/chapter/10.1007/978-981-97-7831-7_18) |
-| **Inverter-Integrated ECC with Torsion Points in Aircraft Security** | Soft Computing Applications in Modern Power and Energy Systems | [Paper](https://link.springer.com/chapter/10.1007/978-981-96-0058-8_15) |
-| **Hybrid Cryptography for Securing IoT: Elliptic Curve and Isogeny-Based** | Information Security, Privacy and Digital Forensics | [Paper](http://link.springer.com/chapter/10.1007/978-981-96-9443-3_4) |
+| **PiLockPark: Innovating Military Security Through ECC Torsion Point Cryptography for Controlled Access and Parking** | 2025 IEEE 3rd Intl. Symposium on Sustainable Energy, Signal Processing and Cybersecurity | [📄 Paper](https://ieeexplore.ieee.org/document/11388046) |
+| **Torsion Point Cryptography: Enhancing Data Security with Elliptic Curve** | International Carnahan Conference on Security Technology | [📄 Paper](https://ieeexplore.ieee.org/document/10474229) |
+| **An ECC-Isogeny Cipher Shield for Navy Inverter Systems** | IEEE ICCCNT Conference | [📄 Paper](https://ieeexplore.ieee.org/document/10725358) |
+| **SNR Estimation for Hypercubic Signals in Rayleigh Channels** | 2nd Intl. Conference on Nonlinear Dynamics and Applications | [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-69146-1_18) |
+| **Isogeny-based Security for Marine Genomic Insights** | Intl. Conference on ICT for Digital, Smart, and Sustainable Development | [📄 Paper](https://link.springer.com/chapter/10.1007/978-981-97-7831-7_18) |
+| **Inverter-Integrated ECC with Torsion Points in Aircraft Security** | Soft Computing Applications in Modern Power and Energy Systems | [📄 Paper](https://link.springer.com/chapter/10.1007/978-981-96-0058-8_15) |
+| **Hybrid Cryptography for Securing IoT: Elliptic Curve and Isogeny-Based** | Information Security, Privacy and Digital Forensics | [📄 Paper](http://link.springer.com/chapter/10.1007/978-981-96-9443-3_4) |
 
-## 🧠 Currently Learning
+---
 
-- Backend architecture and scalable APIs
-- SOLID principles and design patterns
-- Low-Level Design and High-Level Design
-- Distributed systems and deployment
-- Advanced Data Structures and Algorithms
+## 🧠 `$ cat roadmap.md`
+
+```console
+[ ]  backend architecture & scalable APIs
+[ ]  SOLID principles & design patterns
+[ ]  low-level design  (LLD)
+[ ]  high-level design (HLD)
+[ ]  distributed systems & deployment
+[ ]  advanced data structures & algorithms
+```
+
+> *Progress over perfection. One commit at a time.*
 
 ---
 
@@ -100,6 +127,6 @@ A task-management application focused on converting goals into structured tasks 
 
 *“First, solve the problem. Then, write the code.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E1E2E,100:0F172A&height=100&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
