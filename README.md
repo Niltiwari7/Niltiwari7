@@ -1,132 +1,119 @@
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1E2E,100:38BDF8&height=180&section=header&text=Nilesh%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=%24%20backend%20dev%20%7C%20system%20design%20%7C%20dsa&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1E2E,100:38BDF8&height=180&section=header&text=Nilesh%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20System%20Design%20%7C%20DSA&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+backend+developer;%24+cat+philosophy.txt+%E2%86%92+build+%3E+consume;%24+./solve+--lang%3Dcpp+--daily;%24+learning+system-design+by+shipping+real+projects" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Developer;Building+Scalable+Systems;Learning+System+Design;Solving+DSA+Problems+in+C%2B%2B;Build+%3E+Learn+%3E+Repeat" />
 
 <p>
-<a href="https://github.com/niltiwari7"><img src="https://img.shields.io/badge/GitHub-niltiwari7-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/nilesh-tiwari-bbb685215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/nilestiwari_7/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://github.com/niltiwari7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nilesh-tiwari-bbb685215/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/nilestiwari_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 </div>
 
 ---
 
-```console
-    .--.          nilesh@dev
-   |o_o |         ───────────────────────────────────────────────
-   |:_/ |         OS      :  Linux · Web
-  //   \ \        Shell   :  zsh
- (|     | )       Editor  :  Neovim
-/'\_   _/`\       Focus   :  Backend · System Design · DSA
-\___)=(___/       Motto   :  Build. Break. Learn. Repeat.
-```
+## 👨‍💻 About Me
+
+I'm **Nilesh Tiwari**, a Software Developer focused on backend engineering and building reliable, scalable applications.
+
+- 💻 Interested in backend architecture, APIs, and databases.
+- 🏗️ Exploring Low-Level Design, High-Level Design, and Distributed Systems.
+- 🧩 Practicing Data Structures & Algorithms using C++.
+- 🚀 Learning by building real-world projects.
 
 ---
 
-## 🐧 `$ cat about.md`
+## 🛠️ Tech Stack
 
-> I'm **Nilesh Tiwari** — a backend developer who likes turning rough ideas into systems that actually hold up under pressure.
->
-> My happy place is the intersection of **APIs, databases, and clean architecture** — the invisible plumbing that makes products feel smooth. I'm currently going deep into **System Design (LLD + HLD)** and **Distributed Systems**, and I keep my DSA sharp with daily **C++** problems.
->
-> I learn by **shipping real things** — the kind that break, teach me a lesson, and come back stronger on the next commit.
-
----
-
-## 🛠️ `$ ls ~/skills/`
-
-```console
-languages/    cpp  ·  typescript  ·  javascript  ·  python
-backend/      node.js  ·  express.js
-databases/    mongodb  ·  mysql  ·  firebase
-tools/        git  ·  github  ·  docker  ·  linux  ·  vscode  ·  gcloud
-```
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,python,nodejs,express,mongodb,mysql,firebase,git,github,docker,linux,vscode,gcp" alt="Skill icons"/>
+<img src="https://skillicons.dev/icons?i=cpp,ts,js,python" />
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+**Tools & Infrastructure**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,gcp" />
 </p>
 
 ---
 
-## 🚀 `$ ./launch taskpulse-pro`
+## 🚀 Featured Project
 
-### **TaskPulse Pro** — *one prompt → an actionable plan*
+### TaskPulse Pro
 
-> A task-management app that takes a messy goal and turns it into structured tasks and workflows you can actually execute.
+**Turn a simple prompt into an actionable task plan.**
 
-```console
-$ status    →  building · actively iterating
-$ focus     →  prompt → plan → tasks → workflows
-$ built-on  →  typescript · node.js · express.js · databases · system design
-```
+A task-management application designed to transform unstructured goals into organized tasks and workflows.
 
-- 📝 Prompt-driven task planning
-- 🗂️ Task organization & workflow management
-- 🏗️ Maintainable architecture with a full-stack mindset
+**Core Features**
+- Prompt-driven task planning.
+- Task organization and workflow management.
+- Maintainable backend architecture.
+
+**Tech Stack:** TypeScript · Node.js · Express.js · Databases
 
 ---
 
-## 📊 `$ cat ~/stats.json`
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/niltiwari7">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=niltiwari7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=niltiwari7&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/niltiwari7">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltiwari7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltiwari7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </a>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=niltiwari7&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=niltiwari7&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📚 `$ ls ~/publications/ --long`
+## 📚 Research Publications
 
-```console
-research/   cryptography · security · signal processing
-role/       co-author
-papers/     7 peer-reviewed publications
-```
+**7 Peer-Reviewed Publications** · Research areas: Cryptography, Security & Signal Processing.
 
-| Research Paper | Publication | Link |
-|---|---|---|
-| **PiLockPark: Innovating Military Security Through ECC Torsion Point Cryptography for Controlled Access and Parking** | 2025 IEEE 3rd Intl. Symposium on Sustainable Energy, Signal Processing and Cybersecurity | [📄 Paper](https://ieeexplore.ieee.org/document/11388046) |
-| **Torsion Point Cryptography: Enhancing Data Security with Elliptic Curve** | International Carnahan Conference on Security Technology | [📄 Paper](https://ieeexplore.ieee.org/document/10474229) |
-| **An ECC-Isogeny Cipher Shield for Navy Inverter Systems** | IEEE ICCCNT Conference | [📄 Paper](https://ieeexplore.ieee.org/document/10725358) |
-| **SNR Estimation for Hypercubic Signals in Rayleigh Channels** | 2nd Intl. Conference on Nonlinear Dynamics and Applications | [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-69146-1_18) |
-| **Isogeny-based Security for Marine Genomic Insights** | Intl. Conference on ICT for Digital, Smart, and Sustainable Development | [📄 Paper](https://link.springer.com/chapter/10.1007/978-981-97-7831-7_18) |
-| **Inverter-Integrated ECC with Torsion Points in Aircraft Security** | Soft Computing Applications in Modern Power and Energy Systems | [📄 Paper](https://link.springer.com/chapter/10.1007/978-981-96-0058-8_15) |
-| **Hybrid Cryptography for Securing IoT: Elliptic Curve and Isogeny-Based** | Information Security, Privacy and Digital Forensics | [📄 Paper](http://link.springer.com/chapter/10.1007/978-981-96-9443-3_4) |
+| Research Paper | Publication |
+|---|---|
+| [PiLockPark: Innovating Military Security Through ECC Torsion Point Cryptography for Controlled Access and Parking](https://ieeexplore.ieee.org/document/11388046) | IEEE |
+| [Torsion Point Cryptography: Enhancing Data Security with Elliptic Curve](https://ieeexplore.ieee.org/document/10474229) | ICCST |
+| [An ECC-Isogeny Cipher Shield for Navy Inverter Systems](https://ieeexplore.ieee.org/document/10725358) | IEEE ICCCNT |
+| [SNR Estimation for Hypercubic Signals in Rayleigh Channels](https://link.springer.com/chapter/10.1007/978-3-031-69146-1_18) | Springer |
+| [Isogeny-based Security for Marine Genomic Insights](https://link.springer.com/chapter/10.1007/978-981-97-7831-7_18) | Springer |
+| [Inverter-Integrated ECC with Torsion Points in Aircraft Security](https://link.springer.com/chapter/10.1007/978-981-96-0058-8_15) | Springer |
+| [Hybrid Cryptography for Securing IoT: Elliptic Curve and Isogeny-Based](https://link.springer.com/chapter/10.1007/978-981-96-9443-3_4) | Springer |
 
 ---
 
-## 🧠 `$ cat roadmap.md`
+## 🎯 Current Learning Focus
 
-```console
-[ ]  backend architecture & scalable APIs
-[ ]  SOLID principles & design patterns
-[ ]  low-level design  (LLD)
-[ ]  high-level design (HLD)
-[ ]  distributed systems & deployment
-[ ]  advanced data structures & algorithms
-```
-
-> *Progress over perfection. One commit at a time.*
+- Backend Architecture & Scalable APIs
+- SOLID Principles & Design Patterns
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
+- Distributed Systems
+- Advanced Data Structures & Algorithms
 
 ---
 
 <div align="center">
 
-*“First, solve the problem. Then, write the code.”*
+**Build. Learn. Improve. Repeat.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E1E2E,100:0F172A&height=100&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E1E2E,100:0F172A&height=100&section=footer" width="100%" />
 
 </div>
